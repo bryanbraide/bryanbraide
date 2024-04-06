@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&color=21520EEB&random=false&width=435&lines=Technology+is+best+when+it+brings+people+together.+" alt="Typing SVG" /></a>
 </p>
 Hello My name is Bryan Braide, i am a inspiring Software Engineer majoring in Computer Science
 
