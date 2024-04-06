@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bryan Braide</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 Hello My name is Bryan Braide, i am a Software Engineer majoring in Computer Science
 
 [![](https://visitcount.itsvg.in/api?id=Koribraide&icon=0&color=1)](https://visitcount.itsvg.in)
