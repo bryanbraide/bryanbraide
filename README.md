@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bryan Braide</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
