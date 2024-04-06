@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&color=21520EEB&random=false&width=435&lines=Technology+is+best+when+it+brings+people+together.+" alt="Typing SVG" /></a>
