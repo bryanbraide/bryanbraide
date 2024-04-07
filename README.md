@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=1000&color=21520EEB&random=false&width=435&lines=Technology+is+best+when+it+brings+people+together.+" alt="Typing SVG" /></a>
 </p>
-Hello My name is Bryan Braide, i am a inspiring Software Engineer majoring in Computer Science
+Hello My name is Bryan Braide, i am an inspiring Software Engineer majoring in Computer Science
 
 [![](https://visitcount.itsvg.in/api?id=Koribraide&icon=0&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
