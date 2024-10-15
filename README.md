@@ -14,7 +14,7 @@ Hello My name is Bryan Braide, i am an inspiring Software Engineer majoring in C
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bryanbraide&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bryanbraide&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbraide&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 
 
 ## 🏆 GitHub Trophies
