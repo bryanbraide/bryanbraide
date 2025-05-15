@@ -25,9 +25,3 @@ Hello My name is Bryan Braide, i am an inspiring Software Engineer majoring in C
 <br>
  <!---<p height='130px'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbraide&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="bryanbraide"/> </p>---->
 
-<h3 align="center">My Spotify 👀🎧</h3>
-<p align="center"> <!---<img src="https://spotify-github-profile.vercel.app/api/view?uid=dfnf3b6pfm5cxs5ix9nfyrtep&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/>--->  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3154zpf4p2kadp7ur224qfs3jflm" alt="Spotify Recently Played" height="320px"/> 
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
